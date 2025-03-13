@@ -28,6 +28,18 @@ Just copy the commands and enjoy your local AI.
   ollama pull llama3.2
   ```
 
+
+-Add Docker's official GPG key:
+
+  ```bash
+  sudo apt-get update
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+  ```
+
+
 -Set up Docker’s apt repository:
 
   ```bash

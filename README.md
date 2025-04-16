@@ -1,4 +1,4 @@
-# how to selfhost-ai🤖
+# how to selfhost-ai
 
 I'm showing you how to install Ollama with a ChatGPT like UI called OpenWebUI.
 Just copy the commands and enjoy your local AI.

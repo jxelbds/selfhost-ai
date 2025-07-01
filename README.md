@@ -76,7 +76,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 -Reboot and run the last Command again
 
 -go in your Browser and go to: 
-http://localhost:3000/
+http://ip-address:8080
 
 -create admin account
 
@@ -113,8 +113,6 @@ http://localhost:3000/
   ```
 
 -reboot
-
--enjoy your new ai-server
 
 
 

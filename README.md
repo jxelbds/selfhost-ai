@@ -3,8 +3,11 @@
 I'm showing you how to install Ollama with a ChatGPT like UI called OpenWebUI.
 Just copy the commands and enjoy your local AI.
 
+References:
+```bash
 Ollama: https://ollama.com/
 Openwebui: https://openwebui.com/
+```
 
 -Ollama RAM or VRAM Requirements per Parameter:
 ```bash
